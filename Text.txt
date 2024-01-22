@@ -1,5 +1,5 @@
 Hola
 CambioEnClon+CambioEnOriginal
-
-CambioLinea4Clon
+NuevoCambio
+CambioLinea4Clon+CambioLinea4
 Linea5 clon
